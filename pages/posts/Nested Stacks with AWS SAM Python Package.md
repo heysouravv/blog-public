@@ -3,6 +3,7 @@ title: Creating Nested Stacks with AWS SAM Python Package
 date: 2023/04/13
 description: Nested stacks are a powerful feature in AWS CloudFormation.
 tag: AWS
+slug: nested-stacks-with-aws-sam-python-package
 author: Sourav Padhi
 ---
 Nested stacks are a powerful feature in AWS CloudFormation that allow you to break down a large stack into smaller, more manageable components. With nested stacks, you can define resources in a separate CloudFormation template, and then include that template as a resource in your parent template.

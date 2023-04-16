@@ -3,6 +3,7 @@ title: AWS CodeReport
 date: 2023/04/16
 description: Amazon Web Services just released a new AI code completion tool called AWS CodeWhisperer.
 tag: AWS
+slug: aws-bedrock-release
 author: Sourav Padhi
 ---
 ## Introduction and Competition in the Development Tooling Space
