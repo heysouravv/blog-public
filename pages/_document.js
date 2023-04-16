@@ -2,9 +2,9 @@ import { Html, Head, Main, NextScript } from 'next/document'
 
 export default function Document() {
   const meta = {
-    title: 'The Data Engineer and Entrepreneur Who Loves to Share Insights',
-    description: 'Join Sourav Padhi, a data engineer and serial entrepreneur from India, as he shares his unique perspectives on technology, business, and beyond. With experience in founding and running three successful startups, My insights will keep you engaged and inspired. Dive into a world of knowledge and stay tuned for the latest updates from this multi-talented individual.',
-    image: 'https://assets.vercel.com/image/upload/q_auto/front/vercel/dps.png'
+    title: 'The Whiz-Kid Who Loves to Share Insights',
+    description: 'Join Sourav Padhi, as he shares his unique perspectives on technology, business, and beyond.',
+    image: 'https://res.cloudinary.com/dr7lgt33k/image/upload/v1681626241/multi-talented-gen-zer._qlciov.png'
   }
 
   return (
