@@ -1,7 +1,12 @@
+---
+title: The evidence we are living in a Simulation
+date: 2023/05/30
+description: Simulation theory suggests our reality is likely artificial.
+tag: Simulation
+slug: the-evidence-we-are-living-in-a-Simulation
+author: Sourav Padhi
+---
 # The evidence we are living in a Simulation
-
-Date: May 30, 2023
-Tags: Resources
 
 Simulation theory suggests our reality is likely artificial. Evidence is philosophical, not scientific, but simulations are widely used.
 
